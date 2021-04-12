@@ -1,0 +1,6 @@
+Run Docker container : docker pull kengne/dice_challenge
+CD into '/opt/challenge' directory
+Run the script: ./mychallenge.py
+The program invites you to type the name of the input file : type 'example_input.txt'
+(this is the example file, you can create another valid file in the same directory and give the name to the program)
+Check the file data.json to see the result
