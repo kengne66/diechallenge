@@ -1,0 +1,1 @@
+{"line": [{"resultmin": 1, "roll-min": 2, "roll-max": 6}, {"resultmin": 4, "roll-min": 8, "roll-max": 11}, {"resultmin": 3, "roll-min": 28, "roll-max": 42}]}
